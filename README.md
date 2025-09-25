@@ -1,4 +1,4 @@
-# gif
+# paint
 Built a Simple Painting App with OpenCV & Python!
 As part of my hands-on learning journey, I recently developed an interactive painting tool using OpenCV and NumPy!
 With this app, users can draw in real time using their mouse and switch between colors using keyboard shortcuts. It was a fun and practical way to explore mouse event handling and image manipulation.
